@@ -1,0 +1,13 @@
+canvas {
+    border: 5px solid gray;
+}
+
+body {
+    background-color: yellow;
+    color: gray;
+    text-align: center;
+}
+
+a {
+    color: gray;
+}
